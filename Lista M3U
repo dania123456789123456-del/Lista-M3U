@@ -3,10 +3,52 @@
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hdCt77CmKXe1oLJ2vH1UtNRa4XH.jpg" group-title="PELICULAS",Who Am I: Ningún sistema es seguro
 https://rumble.com/hls-vod/75d0xk/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 E01 "Episodio 1"
-https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1VmrC82zY4U33l9UHlZTWDB1asN.jpg" group-title="PELICULAS",El gato con botas
 https://rumble.com/hls-vod/75g9x6/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="PELICULAS",Gregorio
+https://rumble.com/hls-vod/7594g2/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="PELICULAS",Spirit: El corcel indomable
+https://rumble.com/hls-vod/75g948/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="PELICULAS",Terrifier
+https://rumble.com/hls-vod/759478/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 1"
+https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 2"
+https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 3"
+https://rumble.com/hls-vod/75huoo/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 4"
+https://rumble.com/hls-vod/75huqm/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 5"
+https://rumble.com/hls-vod/75husk/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 6"
+https://rumble.com/hls-vod/75huuw/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 7"
+https://rumble.com/hls-vod/75huy0/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 8"
+https://rumble.com/hls-vod/75hv0k/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 9"
+https://rumble.com/hls-vod/75hymg/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 10"
+https://rumble.com/hls-vod/75hyoq/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 11"
+https://rumble.com/hls-vod/75hyqe/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 12"
+https://rumble.com/hls-vod/75hysc/playlist.m3u8?u=0&b=0
 
 
