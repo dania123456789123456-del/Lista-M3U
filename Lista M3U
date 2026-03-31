@@ -51,8 +51,5 @@ https://rumble.com/hls-vod/75hyqe/playlist.m3u8?u=0&b=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 12"
 https://rumble.com/hls-vod/75hysc/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1hbx9q8/1774714671363.jpg" group-title="TV EN VIVO",AMÉRICA TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1hbx9q8/1774714671363.jpg" group-title="Las Hermanas TEMPORADA 02",TEMPORADA 02 "Episodio 1"
 https://regionales.saohgdasregions.fun:9092/MTkwLjIzNy4xNzguNzg=/20_.m3u8?token=YxgoE6pkPVChxwazykSJTA&expires=1774757420
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjywXrbt/channels4-profile-(1).jpg" group-title="TV EN VIVO",MOVISTAR DEPORTES
-https://qzv4jmsc.fubohd.com/movistar/mono.m3u8?token=4ef0d628d20787ca21f02bc4d74f71957184a6bc-cc-1774732081-1774714081
