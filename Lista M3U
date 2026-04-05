@@ -1,118 +1,110 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="══════ 🎬 PELICULAS ══════",🎬 Películas
-http://dummy.url/blank
+# ===== 🎬 PELÍCULAS =====
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hdCt77CmKXe1oLJ2vH1UtNRa4XH.jpg" group-title="PELICULAS",Who Am I: Ningún sistema es seguro
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hdCt77CmKXe1oLJ2vH1UtNRa4XH.jpg" group-title="🎬 Películas | Acción",Who Am I: Ningún sistema es seguro
 https://rumble.com/hls-vod/75d0xk/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1VmrC82zY4U33l9UHlZTWDB1asN.jpg" group-title="PELICULAS",El gato con botas
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1VmrC82zY4U33l9UHlZTWDB1asN.jpg" group-title="🎬 Películas | Animación",El gato con botas
 https://rumble.com/hls-vod/75g9x6/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r7lmlVZB1jOLH3ELkal4jhG9w5g.jpg" group-title="PELICULAS",Gregorio
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r7lmlVZB1jOLH3ELkal4jhG9w5g.jpg" group-title="🎬 Películas | Drama",Gregorio
 https://rumble.com/hls-vod/7594g2/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gNRQdU3KEsYTIl4y9Xte3onUSsx.jpg" group-title="PELICULAS",Spirit: El corcel indomable
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gNRQdU3KEsYTIl4y9Xte3onUSsx.jpg" group-title="🎬 Películas | Animación",Spirit: El corcel indomable
 https://rumble.com/hls-vod/75g948/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg" group-title="PELICULAS",Terrifier
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg" group-title="🎬 Películas | Terror",Terrifier
 https://rumble.com/hls-vod/759478/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg" group-title="PELICULAS",Avatar
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg" group-title="🎬 Películas | Ciencia ficción",Avatar
 https://rumble.com/hls-vod/73ddjg/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg" group-title="PELICULAS",Avatar: El sentido del agua
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg" group-title="🎬 Películas | Ciencia ficción",Avatar: El sentido del agua
 https://rumble.com/hls-vod/73d0ak/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg" group-title="PELICULAS",Avatar: Fuego y ceniza
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg" group-title="🎬 Películas | Ciencia ficción",Avatar: Fuego y ceniza
 https://ia600103.us.archive.org/18/items/video-prueba-2/video%20Prueba%202.mp4
 
 
-#EXTINF:-1 group-title="══════ 📺 SERIES ══════",📺 Series
-http://dummy.url/blank
+# ===== 📺 NOVELAS =====
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 1"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="📺 Novelas | Las Hermanas T01",Episodio 1
 https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 2"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="📺 Novelas | Las Hermanas T01",Episodio 2
 https://rumble.com/hls-vod/75hugy/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 3"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="📺 Novelas | Las Hermanas T01",Episodio 3
 https://rumble.com/hls-vod/75huoo/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 4"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="📺 Novelas | Las Hermanas T01",Episodio 4
 https://rumble.com/hls-vod/75huqm/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 5"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="📺 Novelas | Las Hermanas T01",Episodio 5
 https://rumble.com/hls-vod/75husk/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 6"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="📺 Novelas | Las Hermanas T01",Episodio 6
 https://rumble.com/hls-vod/75huuw/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 7"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="📺 Novelas | Las Hermanas T01",Episodio 7
 https://rumble.com/hls-vod/75huy0/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 8"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="📺 Novelas | Las Hermanas T01",Episodio 8
 https://rumble.com/hls-vod/75hv0k/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 9"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="📺 Novelas | Las Hermanas T01",Episodio 9
 https://rumble.com/hls-vod/75hymg/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 10"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="📺 Novelas | Las Hermanas T01",Episodio 10
 https://rumble.com/hls-vod/75hyoq/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 11"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="📺 Novelas | Las Hermanas T01",Episodio 11
 https://rumble.com/hls-vod/75hyqe/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="Las Hermanas TEMPORADA 01",TEMPORADA 01 "Episodio 12"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="📺 Novelas | Las Hermanas T01",Episodio 12
 https://rumble.com/hls-vod/75hysc/playlist.m3u8?u=0&b=0
 
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnHV58QY/poster-(1).jpg" group-title="Dejémonos de Vargas TEMPORADA 01",TEMPORADA 01 "Episodio 1"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnHV58QY/poster-(1).jpg" group-title="📺 Novelas | Dejémonos de Vargas T01",Episodio 1
 https://rumble.com/hls-vod/75ilcc/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65fs0Ydn/poster-(2).jpg" group-title="Dejémonos de Vargas TEMPORADA 01",TEMPORADA 01 "Episodio 2"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65fs0Ydn/poster-(2).jpg" group-title="📺 Novelas | Dejémonos de Vargas T01",Episodio 2
 https://rumble.com/hls-vod/75oaqk/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FK9LYVg/poster-(3).jpg" group-title="Dejémonos de Vargas TEMPORADA 01",TEMPORADA 01 "Episodio 3"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FK9LYVg/poster-(3).jpg" group-title="📺 Novelas | Dejémonos de Vargas T01",Episodio 3
 https://rumble.com/hls-vod/75oawc/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJM84qYH/poster-(4).jpg" group-title="Dejémonos de Vargas TEMPORADA 01",TEMPORADA 01 "Episodio 4"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJM84qYH/poster-(4).jpg" group-title="📺 Novelas | Dejémonos de Vargas T01",Episodio 4
 https://rumble.com/hls-vod/75obc4/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTBZWh2m/poster-(5).jpg" group-title="Dejémonos de Vargas TEMPORADA 01",TEMPORADA 01 "Episodio 5"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTBZWh2m/poster-(5).jpg" group-title="📺 Novelas | Dejémonos de Vargas T01",Episodio 5
 https://rumble.com/hls-vod/75obhc/playlist.m3u8?u=0&b=0
 
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C1z47Fq/poster-(6).jpg" group-title="Los chicos son mejores que las flores TEMPORADA 01",TEMPORADA 01 "Episodio 1"
-https://rumble.com/hls-vod/75d12a/playlist.m3u8?u=0&b=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3ND8Np6j/poster-(7).jpg" group-title="Los chicos son mejores que las flores TEMPORADA 01",TEMPORADA 01 "Episodio 2"
-https://rumble.com/hls-vod/75ss5e/playlist.m3u8?u=0&b=0
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMTZpsmR/poster-(8).jpg" group-title="Rooster Fighter TEMPORADA 01",TEMPORADA 01 "Episodio 1"
-https://rumble.com/hls-vod/7569ca/playlist.m3u8?u=0&b=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmG6PJvb/poster-(9).jpg" group-title="Rooster Fighter TEMPORADA 01",TEMPORADA 01 "Episodio 2"
-https://rumble.com/hls-vod/75srie/playlist.m3u8?u=0&b=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5vcHs4L/poster-(10).jpg" group-title="Rooster Fighter TEMPORADA 01",TEMPORADA 01 "Episodio 3"
-https://rumble.com/hls-vod/75srlk/playlist.m3u8?u=0&b=0
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c49p26bS/poster-(11).jpg" group-title="Yo soy Betty, la fea TEMPORADA 01",TEMPORADA 01 "Episodio 1"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c49p26bS/poster-(11).jpg" group-title="📺 Novelas | Yo soy Betty, la fea T01",Episodio 1
 https://rumble.com/hls-vod/75uz44/playlist.m3u8?u=0&b=0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2xNQpyQ/poster-(12).jpg" group-title="Yo soy Betty, la fea TEMPORADA 01",TEMPORADA 01 "Episodio 2"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2xNQpyQ/poster-(12).jpg" group-title="📺 Novelas | Yo soy Betty, la fea T01",Episodio 2
 https://rumble.com/hls-vod/75vy7k/playlist.m3u8?u=0&b=0
 
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmRXMRc4/poster-(13).jpg" group-title="Moisés y los Diez Mandamientos TEMPORADA 01",TEMPORADA 01 "Episodio 1"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmRXMRc4/poster-(13).jpg" group-title="📺 Novelas | Moisés y los Diez Mandamientos T01",Episodio 1
 https://rumble.com/hls-vod/75vzm6/playlist.m3u8?u=0&b=0
+
+
+# ===== 🎌 ANIME =====
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C1z47Fq/poster-(6).jpg" group-title="🎌 Anime | Los chicos son mejores que las flores T01",Episodio 1
+https://rumble.com/hls-vod/75d12a/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3ND8Np6j/poster-(7).jpg" group-title="🎌 Anime | Los chicos son mejores que las flores T01",Episodio 2
+https://rumble.com/hls-vod/75ss5e/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMTZpsmR/poster-(8).jpg" group-title="🎌 Anime | Rooster Fighter T01",Episodio 1
+https://rumble.com/hls-vod/7569ca/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmG6PJvb/poster-(9).jpg" group-title="🎌 Anime | Rooster Fighter T01",Episodio 2
+https://rumble.com/hls-vod/75srie/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5vcHs4L/poster-(10).jpg" group-title="🎌 Anime | Rooster Fighter T01",Episodio 3
+https://rumble.com/hls-vod/75srlk/playlist.m3u8?u=0&b=0
