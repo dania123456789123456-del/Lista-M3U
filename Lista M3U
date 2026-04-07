@@ -27,6 +27,11 @@ https://rumble.com/hls-vod/73d0ak/playlist.m3u8?u=0&b=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg" group-title="PELICULAS",Avatar: Fuego y ceniza
 https://ia600103.us.archive.org/18/items/video-prueba-2/video%20Prueba%202.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ffnScVI2qRV6dtF9AOULFshQEJ.jpg" group-title="PELICULAS",Sputnik
+https://ia802803.us.archive.org/27/items/sputnik-1080p-dual-7.99-gb/alienigena.mp4
+
+
+
 
 #EXTINF:-1 group-title="══════ 📺 SERIES ══════",📺 Series
 http://dummy.url/blank
