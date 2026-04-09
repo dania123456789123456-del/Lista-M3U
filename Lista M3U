@@ -164,3 +164,20 @@ https://rumble.com/hls-vod/75ew82/playlist.m3u8?u=0&b=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfwHpDRJ/poster-(9).jpg" group-title="Cuentos de los Hermanos Grimm TEMPORADA 01",TEMPORADA 01 "Episodio 10"
 https://rumble.com/hls-vod/75ev5m/playlist.m3u8?u=0&b=0
 
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wuV9hrd0VqeBTiZ8wMeYfT8p4C6.jpg" group-title="Ataque a los Titanes TEMPORADA 01",TEMPORADA 01 "Episodio 1"
+https://rumble.com/hls-vod/7449nw/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wuV9hrd0VqeBTiZ8wMeYfT8p4C6.jpg" group-title="Ataque a los Titanes TEMPORADA 01",TEMPORADA 01 "Episodio 2"
+https://rumble.com/hls-vod/74e1nm/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wuV9hrd0VqeBTiZ8wMeYfT8p4C6.jpg" group-title="Ataque a los Titanes TEMPORADA 01",TEMPORADA 01 "Episodio 3"
+https://rumble.com/hls-vod/74e1c2/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wuV9hrd0VqeBTiZ8wMeYfT8p4C6.jpg" group-title="Ataque a los Titanes TEMPORADA 01",TEMPORADA 01 "Episodio 4"
+https://rumble.com/hls-vod/74e16m/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wuV9hrd0VqeBTiZ8wMeYfT8p4C6.jpg" group-title="Ataque a los Titanes TEMPORADA 01",TEMPORADA 01 "Episodio 5"
+https://rumble.com/hls-vod/74e12m/playlist.m3u8?u=0&b=0
+
