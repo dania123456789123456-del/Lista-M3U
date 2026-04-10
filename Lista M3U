@@ -5,48 +5,36 @@ http://dummy.url/blank
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hdCt77CmKXe1oLJ2vH1UtNRa4XH.jpg" group-title="PELICULAS",Who Am I Ningún sistema es seguro
 https://rumble.com/hls-vod/75d0xk/playlist.m3u8?u=0&b=0
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1VmrC82zY4U33l9UHlZTWDB1asN.jpg" group-title="PELICULAS",El gato con botas
 https://rumble.com/hls-vod/75g9x6/playlist.m3u8?u=0&b=0
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r7lmlVZB1jOLH3ELkal4jhG9w5g.jpg" group-title="PELICULAS",Gregorio
 https://rumble.com/hls-vod/7594g2/playlist.m3u8?u=0&b=0
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gNRQdU3KEsYTIl4y9Xte3onUSsx.jpg" group-title="PELICULAS",Spirit El corcel indomable
 https://rumble.com/hls-vod/75g948/playlist.m3u8?u=0&b=0
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg" group-title="PELICULAS",Terrifier
 https://rumble.com/hls-vod/759478/playlist.m3u8?u=0&b=0
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg" group-title="PELICULAS",Avatar
 https://rumble.com/hls-vod/73ddjg/playlist.m3u8?u=0&b=0
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg" group-title="PELICULAS",Avatar El sentido del agua
 https://rumble.com/hls-vod/73d0ak/playlist.m3u8?u=0&b=0
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg" group-title="PELICULAS",Avatar Fuego y ceniza
 https://ia600103.us.archive.org/18/items/video-prueba-2/video%20Prueba%202.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ffnScVI2qRV6dtF9AOULFshQEJ.jpg" group-title="PELICULAS",Sputnik
 https://ia802803.us.archive.org/27/items/sputnik-1080p-dual-7.99-gb/alienigena.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/12BvYKueY0eruZuTYIextEZaCC.jpg" group-title="PELICULAS",Kabhi Khushi Kabhie Gham
 #EXTVLCOPT:sub-file=https://files.catbox.moe/tl66j5.srt
 https://dn710100.ca.archive.org/0/items/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg/Kabhi%20Khushi%20Kabhie%20Gham%20720P%20BDRip%20xRG.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nfY0LdXZzggFKfjhyHVEHZfO484.jpg" group-title="PELICULAS",Háblame
 https://ia902807.us.archive.org/16/items/prueba-3_202604/prueba%203.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nGUelOVetiRpY2wTBMHTbrTIGYC.jpg" group-title="PELICULAS",Ratatouille
 https://ia801606.us.archive.org/25/items/video-prueba-1/video%20prueba%201.mp4
-
 
 
 #EXTINF:-1 group-title="══════ 📺 SERIES ══════",📺 Series
 http://dummy.url/blank
 
 
-#EXTINF:-1 group-title="⚽ • LAS HERMANAS • ⚽",⚽ Las Hermanas
+#EXTINF:-1 group-title="══════ • LAS HERMANAS • ⚽",LAS HERMANAS
 http://dummy.url/blank
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg" group-title="⚽ TEMPORADA 01",Episodio 01
 https://rumble.com/hls-vod/75hamw/playlist.m3u8?u=0&b=0
@@ -74,7 +62,7 @@ https://rumble.com/hls-vod/75hyqe/playlist.m3u8?u=0&b=0
 https://rumble.com/hls-vod/75hysc/playlist.m3u8?u=0&b=0
 
 
-#EXTINF:-1 group-title="😂 • DEJÉMONOS DE VARGAS • 😂",😂 Dejémonos de Vargas
+#EXTINF:-1 group-title="══════ • DEJÉMONOS DE VARGAS • 😂",DEJÉMONOS DE VARGAS
 http://dummy.url/blank
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnHV58QY/poster-(1).jpg" group-title="😂 TEMPORADA 01",Episodio 01
 https://rumble.com/hls-vod/75ilcc/playlist.m3u8?u=0&b=0
@@ -88,7 +76,7 @@ https://rumble.com/hls-vod/75obc4/playlist.m3u8?u=0&b=0
 https://rumble.com/hls-vod/75obhc/playlist.m3u8?u=0&b=0
 
 
-#EXTINF:-1 group-title="👑 • BETTY LA FEA • 👑",👑 Betty la fea
+#EXTINF:-1 group-title="══════ • BETTY LA FEA • 👑",BETTY LA FEA
 http://dummy.url/blank
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c49p26bS/poster-(11).jpg" group-title="👑 TEMPORADA 01",Episodio 01
 https://rumble.com/hls-vod/75uz44/playlist.m3u8?u=0&b=0
@@ -96,7 +84,7 @@ https://rumble.com/hls-vod/75uz44/playlist.m3u8?u=0&b=0
 https://rumble.com/hls-vod/75vy7k/playlist.m3u8?u=0&b=0
 
 
-#EXTINF:-1 group-title="🐉 • ATAQUE A LOS TITANES • 🐉",🐉 Ataque a los Titanes
+#EXTINF:-1 group-title="══════ • ATAQUE A LOS TITANES • 🐉",ATAQUE A LOS TITANES
 http://dummy.url/blank
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wuV9hrd0VqeBTiZ8wMeYfT8p4C6.jpg" group-title="🐉 TEMPORADA 01",Episodio 01
 https://rumble.com/hls-vod/7449nw/playlist.m3u8?u=0&b=0
