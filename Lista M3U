@@ -5,33 +5,55 @@ http://dummy.url/blank
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hdCt77CmKXe1oLJ2vH1UtNRa4XH.jpg" group-title="PELICULAS",Who Am I Ningún sistema es seguro
 https://rumble.com/hls-vod/75d0xk/playlist.m3u8?u=0&b=0
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1VmrC82zY4U33l9UHlZTWDB1asN.jpg" group-title="PELICULAS",El gato con botas
 https://rumble.com/hls-vod/75g9x6/playlist.m3u8?u=0&b=0
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r7lmlVZB1jOLH3ELkal4jhG9w5g.jpg" group-title="PELICULAS",Gregorio
-https://rumble.com/hls-vod/7594g2/playlist.m3u8?u=0&b=0
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gNRQdU3KEsYTIl4y9Xte3onUSsx.jpg" group-title="PELICULAS",Spirit El corcel indomable
+https://rumble.com/hls-vod/7594g2/playlist.m3u8?u=0&b=0#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gNRQdU3KEsYTIl4y9Xte3onUSsx.jpg" group-title="PELICULAS",Spirit El corcel indomable
 https://rumble.com/hls-vod/75g948/playlist.m3u8?u=0&b=0
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg" group-title="PELICULAS",Terrifier
 https://rumble.com/hls-vod/759478/playlist.m3u8?u=0&b=0
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg" group-title="PELICULAS",Avatar
 https://rumble.com/hls-vod/73ddjg/playlist.m3u8?u=0&b=0
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg" group-title="PELICULAS",Avatar El sentido del agua
 https://rumble.com/hls-vod/73d0ak/playlist.m3u8?u=0&b=0
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg" group-title="PELICULAS",Avatar Fuego y ceniza
 https://ia600103.us.archive.org/18/items/video-prueba-2/video%20Prueba%202.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ffnScVI2qRV6dtF9AOULFshQEJ.jpg" group-title="PELICULAS",Sputnik
 https://ia802803.us.archive.org/27/items/sputnik-1080p-dual-7.99-gb/alienigena.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/12BvYKueY0eruZuTYIextEZaCC.jpg" group-title="PELICULAS",Kabhi Khushi Kabhie Gham
-#EXTVLCOPT:sub-file=https://files.catbox.moe/tl66j5.srt
 https://dn710100.ca.archive.org/0/items/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg/Kabhi%20Khushi%20Kabhie%20Gham%20720P%20BDRip%20xRG.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nfY0LdXZzggFKfjhyHVEHZfO484.jpg" group-title="PELICULAS",Háblame
 https://ia802807.us.archive.org/16/items/prueba-3_202604/prueba%203.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nGUelOVetiRpY2wTBMHTbrTIGYC.jpg" group-title="PELICULAS",Ratatouille
 https://ia801606.us.archive.org/25/items/video-prueba-1/video%20prueba%201.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1pUkm0XAVVD2CrTF4YdGOVfXjTY.jpg" group-title="PELICULAS",Campanilla
+https://rumble.com/hls-vod/764joc/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AmUOjwjgz1vGnAmnR51NVv0hqAe.jpg" group-title="PELICULAS",Campanilla y el gran rescate
+https://rumble.com/hls-vod/7663ra/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/s5ggvZQMXhP3O2dQD8iQE46K6b6.jpg" group-title="PELICULAS",Campanilla y el tesoro perdido
+https://rumble.com/hls-vod/7662hg/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z5kvXWek4smCyeWBDJQkT5sLc9T.jpg" group-title="PELICULAS",Enredados
+https://rumble.com/hls-vod/764isg/playlist.m3u8?u=0&b=0
+
 
 
 #EXTINF:-1 group-title="══════ 📺 SERIES ══════",Series
 http://dummy.url/blank
+
 
 
 #EXTINF:-1 group-title="══════ • LAS HERMANAS •",LAS HERMANAS
@@ -76,12 +98,29 @@ https://rumble.com/hls-vod/75obc4/playlist.m3u8?u=0&b=0
 https://rumble.com/hls-vod/75obhc/playlist.m3u8?u=0&b=0
 
 
-#EXTINF:-1 group-title="══════ • BETTY LA FEA •",BETTY LA FEA
+#EXTINF:-1 group-title="══════ • YO SOY BETTY, LA FEA •",YO SOY BETTY, LA FEA
 http://dummy.url/blank
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c49p26bS/poster-(11).jpg" group-title="BETTY LA FEA - T01",Episodio 01
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zc8QPx0rDkfK2pwmzQOy2Exh1Fo.jpg" group-title="YO SOY BETTY, LA FEA - T01",Episodio 001 - La fea más bella
 https://rumble.com/hls-vod/75uz44/playlist.m3u8?u=0&b=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2xNQpyQ/poster-(12).jpg" group-title="BETTY LA FEA - T01",Episodio 02
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zc8QPx0rDkfK2pwmzQOy2Exh1Fo.jpg" group-title="YO SOY BETTY, LA FEA - T01",Episodio 002 - El primer día de Betty en Ecomoda
 https://rumble.com/hls-vod/75vy7k/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zc8QPx0rDkfK2pwmzQOy2Exh1Fo.jpg" group-title="YO SOY BETTY, LA FEA - T01",Episodio 003
+https://rumble.com/hls-vod/766uu0/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zc8QPx0rDkfK2pwmzQOy2Exh1Fo.jpg" group-title="YO SOY BETTY, LA FEA - T01",Episodio 004
+https://rumble.com/hls-vod/766x3g/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zc8QPx0rDkfK2pwmzQOy2Exh1Fo.jpg" group-title="YO SOY BETTY, LA FEA - T01",Episodio 005
+https://rumble.com/hls-vod/75xyqw/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zc8QPx0rDkfK2pwmzQOy2Exh1Fo.jpg" group-title="YO SOY BETTY, LA FEA - T01",Episodio 006
+https://rumble.com/hls-vod/75yhko/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zc8QPx0rDkfK2pwmzQOy2Exh1Fo.jpg" group-title="YO SOY BETTY, LA FEA - T01",Episodio 007
+https://rumble.com/hls-vod/7662t4/playlist.m3u8?u=0&b=0
 
 
 #EXTINF:-1 group-title="══════ • ATAQUE A LOS TITANES •",ATAQUE A LOS TITANES
