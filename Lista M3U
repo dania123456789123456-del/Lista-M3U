@@ -102,6 +102,36 @@ https://rumble.com/hls-vod/764isg/playlist.m3u8?u=0&b=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/osrlCIHYOlqOJaDh7zAaeaqh1LF.jpg" group-title="PELICULAS",Los desenredos del amor
 https://rumble.com/hls-vod/768e6y/playlist.m3u8?u=0&b=0
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jz8T3hrU6GuMqSuQ4Rbd4MJUeaq.jpg" group-title="PELICULAS",365 días
+https://rumble.com/hls-vod/769hjw/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k3J2GdYxhR6U2RfsHZOsmHVKW7m.jpg" group-title="PELICULAS",365 días: Aquel día
+https://rumble.com/hls-vod/769i60/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dvKpJZUxI1Rsgvrl8HHv62CpBBh.jpg" group-title="PELICULAS",365 días más
+https://rumble.com/hls-vod/769jbm/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5kZxlS9vLExy3hZA5GfNFg8oJgZ.jpg" group-title="PELICULAS",After: Aquí empieza todo
+https://ia801807.us.archive.org/16/items/af-1_20260413/af%201.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8nPw22C41EUWXREWmY9iIivMXxm.jpg" group-title="PELICULAS",After: En mil pedazos
+https://ia803105.us.archive.org/6/items/af-2_20260413/af%202.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cAvUp7ngPyuhx1nLjmCOTCBNo91.jpg" group-title="PELICULAS",After: Almas perdidas
+https://rumble.com/hls-vod/769voo/playlist.m3u8?u=0&b=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vcI9BD5kMmVI45Pzj5B1ZaGpFIR.jpg" group-title="PELICULAS",After: Amor infinito
+https://ia601807.us.archive.org/26/items/af-4_20260413/af%204.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jO3VGQi5sHIj2BGS963g1F74yCq.jpg" group-title="PELICULAS",After: Aquí acaba todo
+https://ia801808.us.archive.org/33/items/af-5_20260413/af%205.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg" group-title="PELICULAS",Hoppers
+https://ia902807.us.archive.org/8/items/prueba-05_202604/prueba%2005.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/phAcpY05LIKPDGZafBd4lot8caK.jpg" group-title="PELICULAS",Life (Vida)
+https://rumble.com/hls-vod/76a7n4/playlist.m3u8?u=0&b=0
+
 
 
 #EXTINF:-1 group-title="══════ 📺 SERIES ══════",Series
